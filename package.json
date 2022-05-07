@@ -3,15 +3,21 @@
   "version": "1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
+    "test": "next-remote-watch",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@splinetool/react-spline": "^2.1.0",
+    "@splinetool/runtime": "^0.9.42",
     "next": "10.2.0",
     "next-images": "^1.7.0",
+    "next-remote-watch": "^1.0.0",
+    "polished": "^4.2.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-spline": "^1.2.1",
     "styled-components": "^5.3.0"
   },
   "devDependencies": {
