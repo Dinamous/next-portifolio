@@ -7,7 +7,7 @@ function HomeHero() {
   return (
     <Container data-aos="fade-up">
 
-      <Spline/>:
+      <Spline/>
 
       <div>
         <TextContainer>

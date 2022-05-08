@@ -10,13 +10,13 @@ export const Container = styled.div`
   max-height: 50vh;
   max-width: 50vw;
 
-  canvas{
-      width: 470px;
-      height: 477px;
-    }
+  .Teste{
+
+
+  }
 
   @media (max-width: 1450px) {
-
+    max-width: 30vw;
 
 
   }
