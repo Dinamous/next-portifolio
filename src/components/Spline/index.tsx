@@ -9,7 +9,7 @@ const Spline = dynamic(() => import('@splinetool/react-spline'), {
 export default function App() {
   return (
     <Container>
-      <Spline scene="https://prod.spline.design/28DlSC-g9BrTlRgb/scene.splinecode" />
+      <Spline scene="https://prod.spline.design/28DlSC-g9BrTlRgb/scene.splinecode"  height="300" width="300"/>
     </Container>
   );
 }
