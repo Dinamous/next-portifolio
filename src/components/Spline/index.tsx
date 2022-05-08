@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <Container>
-      <Spline scene="https://prod.spline.design/28DlSC-g9BrTlRgb/scene.splinecode" className="Teste" width="300" height="300"/>
+      <Spline scene="https://prod.spline.design/28DlSC-g9BrTlRgb/scene.splinecode" className="Teste" />
     </Container>
   );
 }
