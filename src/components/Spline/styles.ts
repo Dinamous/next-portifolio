@@ -21,7 +21,7 @@ export const Container = styled.div`
 
   }
   @media (max-width: 1000px) {
-
+    display: none
   }
   @media (max-width: 700px) {
 

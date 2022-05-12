@@ -3,6 +3,7 @@ const theme = {
   backgroundLight: '#1B2138',
   primary: '#0EE7B7',
   secondary: '#7AC7E3',
+  terciary: '#3a647e',
   gradient: 'linear-gradient(225deg, #313860 0%, #11172B 100%);',
   text: '#848DA0',
   textHighlight: '#444B5B',
